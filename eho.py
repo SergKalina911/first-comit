@@ -5,5 +5,6 @@ print(ert)
 print('hello')
 son=2
 sop2=5
+print (sop2+son)
 
 
